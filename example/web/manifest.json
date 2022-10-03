@@ -1,0 +1,22 @@
+{
+    "name": "yaru_widgets.dart factory",
+    "short_name": "yaru_widgets factory",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "A widgets factory for yaru_widgets.dart.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "icons/icon-maskable.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "maskable"
+        }
+    ]
+}
